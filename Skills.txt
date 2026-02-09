@@ -2,6 +2,9 @@ v1
 Feedback tone analysis
 UsrFeedbackToneAnalysis
 
+#comment Added
+#New skills to upgrade the System
+
 Analysis of the feedback tone in a Case
 
 Your task is to read text in Feedback notes field of a Case and analyze its tone. Identify whether it is friendly, devastated, neutral, or any other tone you perceive, and provide reasoning for your analysis. Follow these steps to complete the task:
